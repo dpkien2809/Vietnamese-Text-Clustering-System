@@ -33,12 +33,7 @@ This project focuses on processing and clustering Vietnamese text notes using Na
 ## Usage
 1. Input a Vietnamese text note.
 2. The system processes and assigns it to a relevant cluster.
-3. It displays the cluster ID and a representative note from that cluster.
-
-## Next Steps
-- Expand dataset diversity to improve clustering accuracy.
-- Optimize parameters for better performance.
-- Enhance the user interface for real-world applications.
+3. Displays the cluster ID and a representative note from that cluster.
 
 ## Contributors
 - **GaMinD** - Technical Consultant
