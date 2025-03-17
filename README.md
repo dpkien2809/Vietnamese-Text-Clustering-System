@@ -27,7 +27,7 @@ This project focuses on processing and clustering Vietnamese text notes using Na
    ```
 3. Run the demo:
    ```sh
-   streamlit run app.py
+   streamlit run finale.py
    ```
 
 ## Usage
